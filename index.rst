@@ -15,4 +15,4 @@ Design Scuole Italia è il tema WordPress che permette di aderire al `modello di
    relazioni-contenuti.rst
    content-type.rst
    personalizzazione.rst
-   supporti-domande-frequenti.rst
+   supporto-domande-frequenti.rst
