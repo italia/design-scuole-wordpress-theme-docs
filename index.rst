@@ -1,4 +1,7 @@
-Documentazione di progetto e istruzioni operative per il modello di sito istituzionale dei Comuni e i flussi di servizi digitali per il cittadino, basati sul design system di Designers Italia.
+Guida all'installazione e all'uso del tema WordPress "Design Scuole Italia"
+============================================================================
+
+Design Scuole Italia è il tema WordPress che permette di aderire al `modello di sito istituzionale delle scuole <https://designers.italia.it/modello/scuole/>`_, progettato dal Dipartimento per la trasformazione digitale in collaborazione con il Ministero dell’Istruzione.
 
 .. toctree::
    :numbered:
