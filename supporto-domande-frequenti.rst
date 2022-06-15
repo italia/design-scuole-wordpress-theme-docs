@@ -41,3 +41,11 @@ Il tema WordPress copre già tutte le esigenze di base, emerse da una lunga rice
 WordPress permette di aggiungere innumerevoli funzionalità, per far fronte alle esigneze dei singoli istituti (come, ad esempio, creare un’area condivisa di materiali didattici). Quando si sviluppa una nuova funzionalità, è opportuno condividerla con il resto della comunità tramite `Forum Italia <https://forum.italia.it/>`_, `GitHub <https://github.com/italia/design-scuole-wordpress-theme>`_ o il progetto `Porte Aperte sul Web <https://www.porteapertesulweb.it/>`_.
 
 È sconsigliato apportare modifiche strutturali al sito, come modificare la classificazione delle informazioni o la struttura di navigazione. Modifiche di questo tipo possono impedire di beneficiare di evoluzioni future del prodotto, a cause di problematiche di aggiornamento del tema. Puoi segnalare necessità di questo tipo direttamente alla community di Designers Italia tramite i vari canali di contatto. I feedback ricevuti verranno raccolti e considerati per le successive evoluzioni del modello.
+
+
+Segnala un problema
+---------------------
+
+Assicurati che il problema sia relativo al tema WordPress e non a plugin installati o impostazioni del CMS. Puoi aprire un issue sul `repository GitHub del tema WordPress <https://github.com/italia/design-scuole-wordpress-theme/issues>`_.
+
+Se hai bisogno di supporto, leggi la `guida GitHub su come aprire un issue (in inglese) <https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue>`_.
