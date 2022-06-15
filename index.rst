@@ -8,7 +8,6 @@ Design Scuole Italia è il tema WordPress che permette di aderire al `modello di
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   introduzione.rst
    cosa-e-cosa-fa.rst
    installazione.rst
    da-dove-iniziare.rst
