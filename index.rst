@@ -9,8 +9,11 @@ Design Scuole Italia è il tema WordPress che permette di aderire al `modello di
    :caption: Indice dei contenuti
 
    introduzione.rst
-   modello-sito-comunale.rst
-   flussi-di-servizio.rst
-   allegati-tecnici.rst
-   ricerca.rst
-   crediti.rst
+   cosa-e-cosa-fa.rst
+   installazione.rst
+   da-dove-iniziare.rst
+   riscrivere-importare-contenuti.rst
+   relazioni-contenuti.rst
+   content-type.rst
+   personalizzazione.rst
+   supporti-domande-frequenti.rst
