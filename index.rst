@@ -1,18 +1,13 @@
-==================================
-Documento di esempio - Docs Italia
-==================================
-
-.. raw:: latex 
-
-   \makeatletter\@openrightfalse
-	\chapter{Introduzione}
-
-Descrizione scopo del documento.
+Documentazione di progetto e istruzioni operative per il modello di sito istituzionale dei Comuni e i flussi di servizi digitali per il cittadino, basati sul design system di Designers Italia.
 
 .. toctree::
+   :numbered:
    :maxdepth: 3
    :caption: Indice dei contenuti
-   :numbered:
 
-   introduzione.rst  
-   
+   introduzione.rst
+   modello-sito-comunale.rst
+   flussi-di-servizio.rst
+   allegati-tecnici.rst
+   ricerca.rst
+   crediti.rst
