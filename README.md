@@ -1,6 +1,6 @@
-# Documento di esempio - Docs Italia
+# Guida all'installazione e all'uso del tema WordPress "Design Scuole Italia"
 
-Descrizione scopo del documento.
+Questo repository raccoglie la documentazione del tema WordPress Design Scuole Italia. Il permette di aderire al modello di sito istituzionale delle scuole, progettato dal Dipartimento per la trasformazione digitale in collaborazione con il Ministero dell’Istruzione.
 
 # Dipendenze
 
