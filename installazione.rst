@@ -1,7 +1,7 @@
 Installazione
 ===============
 
-Scarica il tema gratuitamente da GitHub
+`Scarica il tema da GitHub <https://github.com/italia/design-scuole-wordpress-theme>`_
 
 Per scaricare il tema, esegui il comando git:
 
